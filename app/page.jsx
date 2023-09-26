@@ -22,10 +22,10 @@ return (
         </p>
     </div>
     <div className="mb-4 bg-gray-100 p-4 m-4 rounded-lg">
-      <Link href="#" className="text-xl text-blue-700 font-bold"> Git Repository</Link>
+      <Link href="https://github.com/YoonDahye08/clerk2" className="text-xl text-blue-700 font-bold"> Git Repository</Link>
     </div>
     <div className="mb-4 bg-gray-100 p-4 m-4 rounded-lg">
-      <Link href="#" className="text-xl text-blue-700 font-bold"> Web service at vercel.com</Link>
+      <Link href="https://vercel.com/yoondahye08/clerk2" className="text-xl text-blue-700 font-bold"> Web service at vercel.com</Link>
     </div>
 </>
   )
